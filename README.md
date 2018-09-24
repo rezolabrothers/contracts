@@ -1,5 +1,4 @@
 # incomplete
-Smart-contracts library
 
 Economists are drawn to areas with simple, elegant, and uncontroversial models.
 The area of incomplete contracts is not like that; it is messy. But contracts are
