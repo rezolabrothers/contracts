@@ -6,4 +6,4 @@ The area of incomplete contracts is not like that; it is messy. But contracts ar
 incomplete in reality and contractual incompleteness underlies numerous significant
 phenomena, some of which have great policy relevance.
 
-incomplete contracts and control - o hart a. economic review, 2017
+o hart incomplete contracts and control - a. economic review, 2017
